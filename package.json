@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "request-ip": "^2.0.1",
+    "ua-parser": "^0.3.5"
   },
   "devDependencies": {}
 }
